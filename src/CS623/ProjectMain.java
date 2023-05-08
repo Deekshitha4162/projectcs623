@@ -17,7 +17,7 @@ public class ProjectMain {
 			// The product p1 changes its name to pp1 in Product and Stock.
 
 			// The product p1 is deleted from Product and Stock.
-			transaction.deleteProduct("p1");
+			transaction.deleteProduct("p2");
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
